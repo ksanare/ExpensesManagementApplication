@@ -1,0 +1,13 @@
+com\example\tripexpensesmanagement\model\Trip.class
+com\example\tripexpensesmanagement\controller\UserController.class
+com\example\tripexpensesmanagement\repository\TripRepository.class
+com\example\tripexpensesmanagement\repository\UserRepository.class
+com\example\tripexpensesmanagement\service\TripService.class
+com\example\tripexpensesmanagement\config\SecurityConfig.class
+com\example\tripexpensesmanagement\model\Expense.class
+com\example\tripexpensesmanagement\repository\ExpenseRepository.class
+com\example\tripexpensesmanagement\model\User.class
+com\example\tripexpensesmanagement\controller\TripController.class
+com\example\tripexpensesmanagement\service\UserService.class
+com\example\tripexpensesmanagement\service\ExpenseService.class
+com\example\tripexpensesmanagement\controller\ExpenseController.class
